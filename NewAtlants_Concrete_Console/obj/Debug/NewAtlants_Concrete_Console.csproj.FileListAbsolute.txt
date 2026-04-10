@@ -1,0 +1,10 @@
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\bin\Debug\NewAtlants_Concrete_Console.exe.config
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\bin\Debug\NewAtlants_Concrete_Console.exe
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\bin\Debug\NewAtlants_Concrete_Console.pdb
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\obj\Debug\NewAtlants_Concrete_Console.csproj.AssemblyReference.cache
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\obj\Debug\NewAtlants_Concrete_Console.csproj.CoreCompileInputs.cache
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\obj\Debug\NewAtlants_Concrete_Console.exe
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\obj\Debug\NewAtlants_Concrete_Console.pdb
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\bin\Debug\System.Data.SqlClient.dll
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\bin\Debug\System.Data.SqlClient.xml
+C:\Practice\NewAtlants\App\NewAtlants_Concrete_Console\NewAtlants_Concrete_Console\obj\Debug\NewAtlan.BA8B901F.Up2Date
